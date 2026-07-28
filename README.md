@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**Wez-Wolf/Wez-Wolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ # Wesley Stuart                                                                         
+                                                                                           
+   System Architect · Full Stack Developer · AI Automation Engineer                        
+                                                                                           
+   [profile.innofuse.xyz](https://profile.innofuse.xyz)                                    
+                                                                                           
+   ---                                                                                     
+                                                                                           
+   Building production systems where legacy infrastructure, modern web, and AI converge.   
+                                                                                           
+   Angular · Ionic · TypeScript · Capacitor · Meteor.js · Vue 3 · Node.js · AI
